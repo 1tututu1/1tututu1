@@ -1,8 +1,8 @@
-## ⚡ golang enjoer
+## ⚡ DS/ML/DL
 ## ⚡ BMSTU student
 ## ⚡ School21 student
 ## ⚡ tg: @tfdlj
-## ⚡ Golang, sql, linux, git, docker ⚡
+## ⚡ Python, Sklearn, PyTorch, numpy, pandas, Golang, sql, linux, git, docker ⚡
 ## ⚡ C/C++
 
 <!--
